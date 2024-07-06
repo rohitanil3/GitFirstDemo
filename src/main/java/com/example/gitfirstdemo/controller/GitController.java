@@ -9,6 +9,6 @@ public class GitController {
     @GetMapping("/name")
     public String getname(){
 
-        return "Hi Ram";
+        return "Hi Ram..";
     }
 }
