@@ -12,6 +12,7 @@
     <artifactId>GitFirstDemo</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>GitFirstDemo</name>
+    <packaging>war</packaging>
     <description>GitFirstDemo</description>
     <url/>
     <licenses>
