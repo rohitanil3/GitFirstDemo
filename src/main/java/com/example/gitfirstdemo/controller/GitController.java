@@ -13,7 +13,7 @@ public class GitController {
     }
     @GetMapping("/hi")
     public String gettingHello(){
-        return "Hi Rohit....";
+        return "Hi Rohit....1234";
     }
 
 }
